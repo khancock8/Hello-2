@@ -18,6 +18,10 @@ int main(int argc, char **argv) {
   
   printf("John Hosch\n");
   printf("Electrical Engineering\n");
+  
+  printf("Kyle Hancock\n");
+  printf("Electrical Engineering\n");
+ 
 
   return 0;
 }
